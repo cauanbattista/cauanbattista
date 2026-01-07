@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ## 👋 Olá, eu sou o Cauan
 
 💻 Estudante de programação  
