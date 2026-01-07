@@ -3,6 +3,7 @@
 
 💻 Estudante de programação  
 📚 Atualmente aprendendo: HTML, CSS, JavaScript e Banco de dados
+
 🎯 Meu objetivo é construir uma base sólida em desenvolvimento web e usar este GitHub para acompanhar minha evolução. 
 
 ### 🚀 Tecnologias
